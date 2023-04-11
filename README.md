@@ -4,4 +4,4 @@
 1) Bike Sales Data Analysis
 
 Tools: Advanced Microsoft Excel
-[DashBoard](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Bike_Dashboard.png).
+[DashBoard](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Visuals/Bike_Dashboard.png).
