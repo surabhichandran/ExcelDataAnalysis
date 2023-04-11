@@ -5,14 +5,14 @@
 
 2) Sales Performance Data Analysis [DashBoard](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Visuals/Ex_Dashboards.png).
 
-3) Network Infrastructure Data :
-    [Index](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Visuals/Ex_INDEX.png),   
+3) Network Infrastructure Data : 
+    [Index](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Visuals/Ex_INDEX.png), 
     [Lookup](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Visuals/Ex_LOOKUP.png).
     
 4) Shipping Data: (Pivot Tables, Pivot Chart, Slicers) 
     [Pivot Report](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Visuals/Ex_PivotReports.png).
     
 5) Project Costing Model Data: 
-    [Data Modeling](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Visuals/Ex_DataModeling.png),  
-    [Scenario Manager](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Visuals/Ex_ScenarioManager.png),  
+    [Data Modeling](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Visuals/Ex_DataModeling.png), 
+    [Scenario Manager](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Visuals/Ex_ScenarioManager.png), 
     [Solver](https://github.com/surabhichandran/ExcelDataAnalysis/blob/main/Visuals/Ex_Solver.png).
